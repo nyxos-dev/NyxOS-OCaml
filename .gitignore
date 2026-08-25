@@ -1,0 +1,8 @@
+*.o
+*.cmi
+*.cmx
+kernel.s
+*.elf
+*.iso
+isodir/
+shot.ppm
